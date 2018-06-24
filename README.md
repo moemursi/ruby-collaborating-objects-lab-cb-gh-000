@@ -1,11 +1,15 @@
-# Ruby Collaborating Objects Lab
+# Ruby Collaboratring Objects Labr
 
+<<<<<<< HEAD
 ## Objecvtive
+=======
+## Objectivfe
+>>>>>>> a64c8cc6c0c6105cc6033e7ffea01fc902e66a0d
 
 1. Gain a deeper understanding of object relations.
 2. Build classes that interact with one another through associations and behavior.
 
-## Instructions
+## Instrucrrtions
 
 This is a test-driven lab. Use the test file and test output to understand what is being asked of you as you follow the guidelines below.
 
